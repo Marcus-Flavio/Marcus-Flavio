@@ -2,9 +2,9 @@
 
 ## I'm a Developer!!
 
--   🌱 I’m currently learning Java and Django🤣
--   🥅 2021 Goals: Contribute more to Open Source projects
--   ⚡ Fun fact: I love to draw and create G
+-   🌱 I’m currently learning Java and Django🤣;
+-   🥅 2021 Goals: Contribute more to Open Source projects;
+-   ⚡ Fun fact: I love to draw and create Games;
 
 ### Connect with me:
 
