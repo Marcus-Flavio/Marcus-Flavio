@@ -28,7 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Flavio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-<br />
 ### GitHub Stats:
 
 ![Marcus-Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Flavio&show_icons=true&theme=dark)
