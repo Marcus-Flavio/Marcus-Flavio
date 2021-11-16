@@ -10,7 +10,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMi4xNDkgMGwtMS42MTIgNC4xMTl2MTYuODM2aDUuNzMxdjMuMDQ1aDMuMjI0bDMuMDQ1LTMuMDQ1aDQuNjU3bDYuMjY5LTYuMjY5di0xNC42ODZoLTIxLjMxNHptMTkuMTY0IDEzLjYxMmwtMy41ODIgMy41ODJoLTUuNzMxbC0zLjA0NSAzLjA0NXYtMy4wNDVoLTQuODM2di0xNS4wNDVoMTcuMTk0djExLjQ2M3ptLTMuNTgyLTcuMzQzdjYuMjYyaC0yLjE0OXYtNi4yNjJoMi4xNDl6bS01LjczMSAwdjYuMjYyaC0yLjE0OXYtNi4yNjJoMi4xNDl6IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" />][twitch]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M2.149 0l-1.612 4.119v16.836h5.731v3.045h3.224l3.045-3.045h4.657l6.269-6.269v-14.686h-21.314zm19.164 13.612l-3.582 3.582h-5.731l-3.045 3.045v-3.045h-4.836v-15.045h17.194v11.463zm-3.582-7.343v6.262h-2.149v-6.262h2.149zm-5.731 0v6.262h-2.149v-6.262h2.149z" fill-rule="evenodd" clip-rule="evenodd"/></svg>" />][twitch]
 
 <br />
 
