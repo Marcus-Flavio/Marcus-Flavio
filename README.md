@@ -10,7 +10,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://imagehost7.online-image-editor.com/oie_upload/images/16223533dCaEo/16233436jYokj12J.png" />][twitch]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-twitch-1.png" />][twitch]
 
 <br />
 
