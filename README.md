@@ -33,7 +33,7 @@
 
 ### GitHub Stats:
 
-![Marcus-Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Flavio&show_icons=true&theme=dark)
+![Marcus-Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Flavio&show_icons=true&theme=gradient)
 
 <br />
 <br />
