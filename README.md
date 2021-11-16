@@ -10,7 +10,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-twitch-1.png" />][twitch]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMi4xNDkgMGwtMS42MTIgNC4xMTl2MTYuODM2aDUuNzMxdjMuMDQ1aDMuMjI0bDMuMDQ1LTMuMDQ1aDQuNjU3bDYuMjY5LTYuMjY5di0xNC42ODZoLTIxLjMxNHptMTkuMTY0IDEzLjYxMmwtMy41ODIgMy41ODJoLTUuNzMxbC0zLjA0NSAzLjA0NXYtMy4wNDVoLTQuODM2di0xNS4wNDVoMTcuMTk0djExLjQ2M3ptLTMuNTgyLTcuMzQzdjYuMjYyaC0yLjE0OXYtNi4yNjJoMi4xNDl6bS01LjczMSAwdjYuMjYyaC0yLjE0OXYtNi4yNjJoMi4xNDl6IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" />][twitch]
 
 <br />
 
