@@ -3,7 +3,7 @@
 ## I'm a Developer!!
 
 -   💾 I’m currently learning Java and Django🤣;
--   🥅 2022 Goals: Contribute more to Open Source projects;
+-   🥅 2023 Goals: Contribute more to Open Source projects;
 -   ⚡ Fun fact: I love to draw and create Games;
 
 ### Connect with me:
