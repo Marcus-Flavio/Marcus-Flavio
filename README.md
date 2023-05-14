@@ -39,6 +39,6 @@
 <br />
 <br />
 
-[website]: https://www.google.com
-[twitch]: https://www.twitch.tv/jincus
+[website]: https://www.webicore.com.br
+[twitch]: https://www.twitch.tv/marcus_magalhaes
 [youtube]: https://www.youtube.com/channel/UCfZDbrO7EAp0kjhX9MugGaA
