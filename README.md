@@ -9,7 +9,7 @@
 
 [<img align="left" alt="jarvis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Marcus Flávio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Marcus Flávio | Twitch" width="22px" src="https://cdn.discordapp.com/attachments/854760271424126987/910300571624415232/iconmonstr-twitch-1-removebg-preview.png" />][twitch]
+[<img align="left" alt="Marcus Flávio | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/black/twitter-xxl.png" />][twitter]
 
 <br />
 
@@ -39,5 +39,5 @@
 <br />
 
 [website]: https://www.webicore.com.br
-[twitch]: https://www.twitch.tv/marcus_magalhaes
+[twitter]:  https://twitter.com/MarcusFMaga
 [youtube]: https://www.youtube.com/channel/UCfZDbrO7EAp0kjhX9MugGaA
