@@ -3,7 +3,7 @@
 ## I'm a Developer!!
 
 -   💾 I’m currently learning Javascript and Django🤣;
--   🥅 2023 Goals: Contribute more to Open Source projects;
+-   🥅 2023 Goals: Create my own SAAS;
 
 ### Connect with me:
 
