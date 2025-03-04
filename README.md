@@ -2,8 +2,8 @@
 
 ## I'm a Developer!!
 
--   💾 I’m currently learning Javascript and Django🤣;
--   🥅 2023 Goals: Create my own SAAS;
+-   💾 I’m currently learning Javascript and React JS🤣;
+-   🥅 2025 Goals: Create my own SAAS;
 
 ### Connect with me:
 
